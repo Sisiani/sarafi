@@ -6,7 +6,7 @@ from telegram.ext import (Application, CommandHandler, CallbackQueryHandler, Mes
 
 # ================= CONFIG =================
 TOKEN = "8311865694:AAHrQDLSJcFKOztBj8X2PtMafk7U7AML0Uo"
-ADMIN_ID = 6277910360  # آیدی عددی خودت به عنوان ادمین اصلی
+ADMIN_ID = 7374971382  # آیدی عددی خودت به عنوان ادمین اصلی
 GROUP_ID = -1003086390705
 CHANNEL_LINK = "https://t.me/NEURANAcademy"
 
